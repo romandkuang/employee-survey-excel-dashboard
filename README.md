@@ -5,7 +5,9 @@
 This project analyzes employee survey responses from approximately 1,500 city employees in Washington state. The goal was to clean, profile, summarize, and visualize survey response data in Excel so HR leadership could quickly identify employee satisfaction trends, concern areas, and improvement opportunities.
 
 The final deliverable is an Excel-based survey dashboard with Likert-scale visualizations, KPI summaries, response distribution analysis, and actionable recommendations for HR decision-making.
-
+<p align="center">
+  <img src="dashboard/employee_dashboard.png" alt="Employee Survey Dashboard" width="900">
+</p>
 ---
 
 ## Business Objective
