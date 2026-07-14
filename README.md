@@ -8,7 +8,7 @@ The final deliverable is an Excel-based survey dashboard with Likert-scale visua
 <p align="center">
   <img src="dashboard/employee_dashboard.png" alt="Employee Survey Dashboard" width="900">
 </p>
----
+
 
 ## Business Objective
 
@@ -20,7 +20,7 @@ HR leaders often collect employee survey data but struggle to turn raw responses
 - Where should HR leadership focus improvement efforts first?
 - How can future survey reporting be standardized and improved?
 
----
+
 
 ## Dataset Summary
 
@@ -45,7 +45,7 @@ The dataset contains employee survey responses from city employees in Washington
 
 Responses of `0` were excluded from average score calculations because they do not represent a valid Likert-scale response.
 
----
+
 
 ## Tools Used
 
@@ -58,7 +58,7 @@ Responses of `0` were excluded from average score calculations because they do n
 - Likert-scale visualization
 - KPI dashboard design
 
----
+
 
 ## Data Preparation Process
 
@@ -115,7 +115,6 @@ This project analyzes employee survey responses from approximately 1,500 city em
 
 The final deliverable is an Excel-based survey dashboard with Likert-scale visualizations, KPI summaries, response distribution analysis, and actionable recommendations for HR decision-making.
 
----
 
 ## Business Objective
 
@@ -127,7 +126,7 @@ HR leaders often collect employee survey data but struggle to turn raw responses
 - Where should HR leadership focus improvement efforts first?
 - How can future survey reporting be standardized and improved?
 
----
+
 
 ## Dataset Summary
 
@@ -152,7 +151,6 @@ The dataset contains employee survey responses from city employees in Washington
 
 Responses of `0` were excluded from average score calculations because they do not represent a valid Likert-scale response.
 
----
 
 ## Tools Used
 
@@ -165,7 +163,6 @@ Responses of `0` were excluded from average score calculations because they do n
 - Likert-scale visualization
 - KPI dashboard design
 
----
 
 ## Data Preparation Process
 
@@ -196,7 +193,6 @@ The dataset was cleaned by:
 - Excluding invalid zero responses from average score calculations
 - Sorting questions by average response score
 
----
 
 ## Analysis Approach
 
@@ -237,7 +233,7 @@ The dashboard includes the following KPI cards:
 | Positive Response %   | Measures combined Agree and Strongly Agree responses       |
 | Negative Response %   | Measures combined Strongly Disagree and Disagree responses |
 
----
+
 
 ## Key Findings
 
@@ -247,7 +243,7 @@ Lower-rated areas showed more concern around recognition, workplace connection, 
 
 The Likert-scale chart made it easier to compare positive and negative sentiment across all questions and identify which topics should receive leadership attention first.
 
----
+
 
 ## Recommendations
 
@@ -260,7 +256,7 @@ The Likert-scale chart made it easier to compare positive and negative sentiment
 | Low      | Standardize future survey collection.                              | Required fields and consistent department names improve reporting accuracy and reduce cleanup time.         |
 | Low      | Repeat the survey regularly.                                       | Tracking results over time helps leadership measure whether HR actions are improving employee satisfaction. |
 
----
+
 
 ## Business Impact
 
@@ -274,7 +270,7 @@ The dashboard supports:
 * Standardized recurring survey analysis
 * More effective communication of survey results to leadership
 
----
+
 
 ## Portfolio Relevance
 
@@ -290,18 +286,8 @@ It is especially relevant for:
 * Internal operations reporting
 * Small business reporting needs
 
----
 
-## Files Included
 
-| File                                         | Description                                                                    |
-| -------------------------------------------- | ------------------------------------------------------------------------------ |
-| `Employee_Survey_Excel_Dashboard.xlsx`       | Excel workbook with cleaned data, chart source, dashboard, and recommendations |
-| `upwork_employee_survey_portfolio_cover.png` | Portfolio cover image for Upwork/GitHub                                        |
-| `upwork_employee_survey_detail_table.png`    | Supporting screenshot showing survey calculations and Likert chart             |
-| `README.md`                                  | Project documentation                                                          |
-
----
 
 ## Skills Demonstrated
 
@@ -316,7 +302,7 @@ It is especially relevant for:
 * Spreadsheet documentation
 * Executive summary writing
 
----
+
 
 ## Final Summary
 
